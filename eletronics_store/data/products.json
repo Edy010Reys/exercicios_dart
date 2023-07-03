@@ -1,0 +1,24 @@
+[
+    {
+      "code": "001",
+      "name": "iPhone 12",
+      "price": 1299.99,
+      "category": 0,
+      "brand": "Apple"
+    },
+    {
+      "code": "002",
+      "name": "Dell XPS 13",
+      "price": 1699.99,
+      "category": 1,
+      "processor": "Intel Core i7"
+    },
+    {
+      "code": "003",
+      "name": "Sony WH-1000XM4",
+      "price": 349.99,
+      "category": 2,
+      "wireless": true
+    }
+]
+  
