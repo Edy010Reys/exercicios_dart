@@ -1,10 +1,9 @@
 import 'dart:convert';
-import 'package:eletronics_store/headphones.dart';
-import 'package:eletronics_store/laptop.dart';
-import 'package:eletronics_store/product.dart';
+import 'headphones.dart';
+import 'laptop.dart';
+import 'product.dart';
+import 'smartphone.dart';
 import 'dart:io';
-
-import 'package:eletronics_store/smartphone.dart';
 
 class ElectronicsStore {
   final List<Product> allProducts = [];

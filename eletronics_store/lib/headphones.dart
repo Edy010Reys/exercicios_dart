@@ -1,4 +1,4 @@
-import 'package:eletronics_store/product.dart';
+import 'product.dart';
 
 class Headphones extends Product {
   final bool wireless;
