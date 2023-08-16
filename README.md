@@ -1,1 +1,1 @@
-Resolvendo exercícios aleatórios em Dart.
+Resolvendo exercícios aleatórios em Dart
