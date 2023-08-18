@@ -1,11 +1,11 @@
 fastminton(String sequence) {
-  final value = sequence.toUpperCase().split('');
+  final values = sequence.toUpperCase().split('');
   int pointLeft = 0;
   int pointRight = 0;
   int gameLeft = 0;
   int gameRight = 0;
   int letterR = 0;
-  for (final letter in value) {
+  for (final letter in values) {
     if (letter == 'Q') {
       if (gameLeft > 1) {
         print('$gameLeft (winner) - $gameRight');
@@ -45,5 +45,5 @@ fastminton(String sequence) {
       diff *= 0;
       pointLeft *= 0;
     }
-  }
+  } 
 }
